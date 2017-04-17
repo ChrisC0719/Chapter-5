@@ -15,6 +15,11 @@ public class FixDebugFive3
       final int HIGH = 999;
       final int CUTOFF = 500;
       Scanner input = new Scanner(System.in);
+      calculateOutPut();
+   }
+   public static void calculateOutPut()
+   {
+           
       System.out.println("Please enter item number");
       item = input.nextInt();
       if(item < LOW)
