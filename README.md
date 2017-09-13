@@ -9,3 +9,4 @@
 <li>-Exercise page 294 1, 2, 3B, 4, 6</li>
 <li>-Game Zone Number #1 page 297,  Number #5 Rock Paper Scissors page 298</li>
 </ol>
+<img src=chapter5Rubric.PNG>
